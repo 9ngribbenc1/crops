@@ -1,0 +1,31 @@
+# This is a dictionary of cropcros land use TIFF codes.
+
+
+lu_dict = {1: "Corn",
+        5: "Soybeans",
+        26: "Cbl Crop WinWht/Soybeans",
+        24: "Winter Wheat",
+        28: "Oats",
+        36: "Alfalfa",
+        37: "Other Hay/Non Alfalfa",
+        47: "Misc Vegs & Fruits",
+        58: "Clover/Wildflowers",
+        59: "Sod/Grass Seed",
+        68: "Apples",
+        70: "Christmas Trees",
+        111: "Open Water",
+        121: "Developed/Open Space",
+        122: "Developed/Low Intensity",
+        123: "Developed/Med Intensity",
+        124: "Developed/High Intensity",
+        131: "Barren",
+        141: "Deciduous Forest",
+        142: "Evergreen Forest",
+        143: "Mixed Forest",
+        152: "Shrubland",
+        176: "Grassland/Pasture",
+        190: "Woody Wetlands",
+        195: "Herbaceous Wetlands",
+        229: "Pumpkins",
+        241: "Dbl Crop Corn/Soybeans"
+        }
